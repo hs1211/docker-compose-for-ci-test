@@ -65,3 +65,7 @@ command-line
 Reference
 ---------
 - https://semaphoreci.com/blog/2017/09/13/continuous-integration-with-docker-compose.html
+- https://blog.lwolf.org/post/how-to-build-and-test-docker-images-in-gitlab-ci/(읽어야함)
+- https://blog.codeship.com/continuous-integration-and-delivery-with-docker/
+- https://medium.com/mobileforgood/patterns-for-continuous-integration-with-docker-on-travis-ci-ba7e3a5ca2aa
+- https://alexei-led.github.io/post/docker_testing/
